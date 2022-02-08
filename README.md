@@ -37,9 +37,8 @@ To test to check if the code is running smoothly, please use the command line: "
 <br>
 <a name='live'></a>
 
-## Link to the live site
+## Links
 
-<br>
 GitHub Repository: <a href="https://ibarros19.github.io/" target="_blank">https://ibarros19.github.io/</a> 
 <br>
 Video Demo: <a href="https://ibarros19.github.io/" target="_blank">https://ibarros19.github.io/</a> 
