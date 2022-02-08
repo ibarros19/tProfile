@@ -1,0 +1,32 @@
+[
+    {
+      "type": "input",
+      "name": "name",
+      "message": "Please type the intern's name?"
+    },
+    {
+      "type": "input",
+      "name": "id",
+      "message": "Please type the intern's id?"
+    },
+    {
+      "type": "input",
+      "name": "email",
+      "message": "Please type the interns's email?"
+    },
+    {
+      "type": "input",
+      "name": "school",
+      "message": "Please type the intern's school?"
+    },
+    {
+      "type": "list",
+      "name": "addEmp",
+      "message": "Do you want to add another person to the team?",
+      "choices": [
+        "Engineer",
+        "Intern",
+        "Done"
+      ]
+    }
+  ]

@@ -1,0 +1,31 @@
+[
+    {
+      "type": "input",
+      "name": "name",
+      "message": "Please, type the manager's name."
+    },
+    {
+      "type": "input",
+      "name": "id",
+      "message": "What's s your id?"
+    },
+    {
+      "type": "input",
+      "name": "email",
+      "message": "What's your email?"
+    },
+    {
+      "type": "input",
+      "name": "officeNumber",
+      "message": "What's your office number?"
+    },
+    {
+      "type": "list",
+      "name": "addEmp",
+      "message": "Do you want to add another person to the team?",
+      "choices": [
+        "Engineer",
+        "Intern"
+      ]
+    }
+  ]
