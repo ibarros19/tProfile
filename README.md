@@ -1,4 +1,4 @@
-# TITLE
+# TEAM PROFILE GENERATOR
   ![License](https://img.shields.io/badge/License-MIT-blue)
 <hr>
   <h2>Table of Contents</h2>
@@ -36,9 +36,12 @@ To test to check if the code is running smoothly, please use the command line: n
 </table>
 <br>
 <a name='live'></a>
+
 ## Link to the live site
+
 <br>
 <a href="https://ibarros19.github.io/" target="_blank">https://ibarros19.github.io/</a>
 <a name='questions'></a>
+
 ## Questions
 If you have any further questions, please feel free to contact me on GitHub at [ivibarros19](https://github.com/ivibarros19) or by email at [ivibarros19@gmail.com](ivibarros19@gmail.com).
