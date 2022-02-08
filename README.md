@@ -20,7 +20,7 @@ This is a Node.js command-line application that takes users inputs about employe
   
 To run the application, please run the command line: "npm install" or "npm i" followed by the command "npm start"
 
-To test to check if the code is running smoothly, please use the command line: npm test
+To test to check if the code is running smoothly, please use the command line: "npm test"
  
 <a name='scrs'></a>
 ## Screenshots<br>
