@@ -1,6 +1,5 @@
 # TEAM PROFILE GENERATOR
   ![License](https://img.shields.io/badge/License-MIT-blue)
-<hr>
   <h2>Table of Contents</h2>
   
   * [Description](#description)
