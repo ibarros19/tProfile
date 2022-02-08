@@ -40,7 +40,9 @@ To test to check if the code is running smoothly, please use the command line: n
 ## Link to the live site
 
 <br>
-<a href="https://ibarros19.github.io/" target="_blank">https://ibarros19.github.io/</a>
+GitHub Repository: <a href="https://ibarros19.github.io/" target="_blank">https://ibarros19.github.io/</a> 
+<br>
+Video Demo: <a href="https://ibarros19.github.io/" target="_blank">https://ibarros19.github.io/</a> 
 <a name='questions'></a>
 
 ## Questions
