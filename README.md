@@ -18,7 +18,7 @@ This is a Node.js command-line application that takes users inputs about employe
 <a name='usage'></a>
 ## Usage
   
-To run the application, please run the command line: npm start
+To run the application, please run the command line: npm install followed by the command npm start
 
 To test to check if the code is running smoothly, please use the command line: npm test
  
