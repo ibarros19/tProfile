@@ -8,7 +8,7 @@ test("Can obtain School", () => {
 
 test("getRole function returns \"Intern\"", () => {
     const testValue = "Intern";
-    const e = new Intern("Bang", 1, "test@test.com", "ASU");
+    const e = new Intern("Bang", 1, "test@mail.com", "ASU");
     expect(e.getRole()).toBe(testValue);
 });
 
