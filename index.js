@@ -76,6 +76,6 @@ function getIntern() {
 function writeHTMLFile(html){
     writeFile(outputPath, html, function(error) {
         if(error){ return console.log(error); }
-        console.log('\nYou have created your file successfully!\n');
+        console.log('\nYou have created your file successfully! \nIt is located in the folder dist and it is called index.html\n');
     })
 }
