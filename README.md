@@ -40,7 +40,7 @@ To test to check if the code is running smoothly, please use the command line: "
 
 GitHub Repository: <a href="https://github.com/ibarros19/tProfile" target="_blank">https://github.com/ibarros19/tProfile</a> 
 <br>
-Video Demo: <a href="https://youtu.be/NlUQhP3hj60" target="_blank"https://youtu.be/NlUQhP3hj60</a> 
+Video Demo: <a href="https://youtu.be/NlUQhP3hj60" target="_blank">https://youtu.be/NlUQhP3hj60</a> 
 <a name='questions'></a>
 
 ## Questions
