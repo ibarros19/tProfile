@@ -38,7 +38,7 @@ To test to check if the code is running smoothly, please use the command line: "
 
 ## Links
 
-GitHub Repository: <a href="https://ibarros19.github.io/" target="_blank">https://ibarros19.github.io/</a> 
+GitHub Repository: <a href="https://github.com/ibarros19/tProfile" target="_blank">https://github.com/ibarros19/tProfile</a> 
 <br>
 Video Demo: <a href="https://ibarros19.github.io/" target="_blank">https://ibarros19.github.io/</a> 
 <a name='questions'></a>
